@@ -1,2 +1,2 @@
 # gitskills
-learngit
+Creating a branch is quick.
